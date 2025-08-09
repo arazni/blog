@@ -1,0 +1,13 @@
+format: jb-book
+root: index
+parts:
+- caption: Arazni's TTRPG Blog
+  chapters:
+  - file: ttrpgs-gender-actually.md
+  - file: ttrpgs-heart-ending.md
+  - file: ttrpgs-eat-the-reich-ending.md
+- caption: Arazni's Poetry Blog
+  chapters:
+  - file: poetry-arazni.md
+  - file: poetry-urgathoa.md
+  - file: poetry-we-tossed-a-sui.md
