@@ -29,7 +29,7 @@ Make of me your sacrament
   chase my blood with my warm smile
   and thorn my crown with your nails
 
-Make of me la tua Nonna
+Make of me tua nonna
   limping through the kitchen
   lungs gruff and gagging
     but still she provides
