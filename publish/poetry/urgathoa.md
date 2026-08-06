@@ -40,8 +40,5 @@ Bury me inside you
   leave mother earth starved
     maw agape and coffinless
 
-Take the nutrition I promised to bugs
-  and spend it on whimsy
-
 You cannot waste me as long as you still breathe
 ```

@@ -8,6 +8,8 @@ parts:
   - file: ttrpgs/eat-the-reich-ending.md
 - caption: Arazni's Poetry Blog
   chapters:
+  - file: poetry/waterfall.md
+  - file: poetry/white-guilt.md
   - file: poetry/arazni.md
   - file: poetry/urgathoa.md
   - file: poetry/we-tossed-a-sui.md
