@@ -1,9 +1,9 @@
-# This file was created automatically with `myst init --gh-pages` 🪄 💚
-
 name: MyST GitHub Pages Deploy
 on:
   push:
     branches: [main]
+env:
+  BASE_URL: /${{ github.event.repository.name }}
 
 permissions:
   contents: read
