@@ -74,7 +74,7 @@ def parse_post(path: Path) -> dict | None:
     return {
         "title": meta.get("title", path.stem),
         "date": date,
-				"update": meta.get("update", ""),
+        "update": meta.get("update", ""),
         "slug": path.stem,
         "description": meta.get("description", ""),
         "tags": meta.get("tags", []) or [],
@@ -108,7 +108,7 @@ def build_feed(posts: list[dict]) -> FeedGenerator:
         fe.link(href=url)
         fe.author(AUTHOR)
         fe.published(post["date"])
-				if post["update"]:
+        if post["update"]:
             fe.updated(post["update"])
         fe.description(post["description"] or post["summary"])
         for tag in post["tags"]:
@@ -120,7 +120,7 @@ def main() -> None:
     """Generate ``rss.xml`` and ``atom.xml`` from the ``blog/`` directory."""
     root = Path(__file__).parent
     blog_dir = root / "publish"
-		print(f"Debug: {blog_dir}.")
+    print(f"Debug: {blog_dir}.")
     posts = [p for p in (parse_post(f) for f in blog_dir.glob("/*/*.md")) if p]
     posts.sort(key=lambda p: p["date"], reverse=True)
 
