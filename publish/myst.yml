@@ -3,25 +3,25 @@ project:
   title: Arazni's Notebook
   author: Arazni (Erica)
   keywords:
-    - TTRPG
-    - story games
-    - poems
-    - poetry
-    - blog
+  - TTRPG
+  - story games
+  - poems
+  - poetry
+  - blog
   toc:
   - file: index.md
-    title: Arazni's RPG Blog
+  - title: Arazni's RPG Blog
     children:
-      - file: ttrpgs/gender-actually.md
-      - file: ttrpgs/heart-ending.md
-      - file: ttrpgs/eat-the-reich-ending.md
+    - file: ttrpgs/gender-actually.md
+    - file: ttrpgs/heart-ending.md
+    - file: ttrpgs/eat-the-reich-ending.md
   - title: Arazni's Poetry Blog
     children:
-      - file: poetry/waterfall.md
-      - file: poetry/white-guilt.md
-      - file: poetry/arazni.md
-      - file: poetry/urgathoa.md
-      - file: poetry/we-tossed-a-sui.md
+    - file: poetry/waterfall.md
+    - file: poetry/white-guilt.md
+    - file: poetry/arazni.md
+    - file: poetry/urgathoa.md
+    - file: poetry/we-tossed-a-sui.md
 site:
   template: book-theme
   options:
