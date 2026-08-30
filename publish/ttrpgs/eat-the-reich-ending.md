@@ -1,11 +1,9 @@
 ---
-title: "Killing the Final Boss in One Shot in Eat the Reich"
+title: Killing the Final Boss in One Shot in Eat the Reich (2024)
 date: 2025-01-01
 #description: Prose of a brief moment of American pride
 tags: [rpg, Eat the Reich]
 ---
-
-# Endings: Killing the Final Boss in One Shot in Eat the Reich (2024)
 
 A massive werewolf amalgam of occult research and biological experimentation carrying multiple swords on his back, each sharper than the last.
 

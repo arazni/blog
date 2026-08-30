@@ -1,11 +1,9 @@
 ---
-title: Waterfall
+title: Waterfall (2026)
 date: 2026-08-01
 description: A poem about suicidal ideation and obsolescence
 tags: [poetry]
 ---
-
-# Waterfall (2026)
 
 A lot of bad stuff has happened lately.
 

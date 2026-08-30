@@ -1,11 +1,9 @@
 ---
-title: White Guilt
+title: White Guilt (2026)
 date: 2026-02-01
 description: A poem about white supremacist institutions and murders
 tags: [poetry]
 ---
-
-# White Guilt (2026)
 
 A guilty verdict, a curse, a condemnation, not an internalized shame.
 

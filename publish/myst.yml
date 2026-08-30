@@ -27,3 +27,6 @@ site:
   options:
     logo: icon-32.png
     favicon: icon-32.png
+  actions:
+    - title: RSS
+      url: https://arazni.github.io/blog/rss.xml

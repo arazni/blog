@@ -1,11 +1,9 @@
 ---
-title: TTRPGs Didn't Help Me Figure Out My Gender, Actually
+title: TTRPGs Didn't Help Me Figure Out My Gender, Actually (2025)
 date: 2025-12-01
 #description: An article about RPG firsts
 tags: [rpg, Horse Girl, Shadowrun, Pathfinder]
 ---
-
-# TTRPGs Didn't Help Me Figure Out My Gender, Actually (2025)
 
 This article was excerpted as blackout poetry by [Thomas Manuel for Rascal News](https://www.rascal.news/author/thomas-manuel/) as part of their History Week article on [personal TTRPG histories](https://www.rascal.news/the-rascal-community-recalls-their-first-ever-rpg-session/). You can read the blackout versions of mine and others' stories for a dollar on their site.
 

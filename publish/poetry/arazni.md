@@ -1,11 +1,9 @@
 ---
-title: Arazni
+title: Dear Arazni (2024)
 date: 2024-12-01
 description: A poem about care and disarmament
 tags: [poetry]
 ---
-
-# Dear Arazni (2024)
 
 I wrote this one about my favorite [Pathfinder goddess, Arazni](https://2e.aonprd.com/Deities.aspx?ID=326).
 
