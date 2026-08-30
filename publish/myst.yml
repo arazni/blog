@@ -22,6 +22,10 @@ project:
     - file: poetry/arazni.md
     - file: poetry/urgathoa.md
     - file: poetry/we-tossed-a-sui.md
+  exclude:
+  - rss.xml
+  - atom.xml
+  - generate_rss.py
 site:
   template: book-theme
   options:
