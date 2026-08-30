@@ -30,7 +30,9 @@ jobs:
       - name: Build HTML Assets
         working-directory: ./publish
         run: myst build --html
+      # doesn't seem to work yet:
       - name: Rewrite localhost URLs in sitemap
+        working-directory: ./publish
         run: |
           if [ -f ./_build/html/sitemap.xml ]; then
             sed -i 's|http://localhost:[0-9]*|https://arazni.github.io/blog|g' ./_build/html/sitemap.xml

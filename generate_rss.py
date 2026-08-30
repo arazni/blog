@@ -135,7 +135,7 @@ def main() -> None:
     fg.atom_file(str(atom_path), pretty=True)
     print(f"Wrote {rss_path} and {atom_path} ({len(posts)} posts).")
 
-    build_html = root / "_build" / "html"
+    build_html = root / "publish" / "_build" / "html"
     if build_html.exists():
         shutil.copy(rss_path, build_html / "rss.xml")
         shutil.copy(atom_path, build_html / "atom.xml")
