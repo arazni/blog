@@ -1,3 +1,10 @@
+---
+title: We Tossed "A Sui" There Instead of Our Bodies
+date: 2024-03-01
+description: A poem about the memories of loving someone suicidal
+tags: poetry
+---
+
 # We Tossed "A Sui" There Instead of Our Bodies (2024)
 
 A Sui was the name of a poem I wrote over a decade prior about window shopping suicide. I'll have to find it.

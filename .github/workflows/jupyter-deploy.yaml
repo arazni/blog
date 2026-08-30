@@ -30,6 +30,17 @@ jobs:
       - name: Build HTML Assets
         working-directory: ./publish
         run: myst build --html
+      
+      # Python Feeds
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Install Python dependencies
+        run: pip install feedgen pyyaml
+      - name: Generate RSS and Atom feeds
+        run: python generate_rss.py
+
+      # Upload
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

@@ -1,3 +1,10 @@
+---
+title: "Blowing our Zenith Abilities on Pettiness in Heart: The City Beneath"
+date: 2025-10-01
+#description: Prose about the end of a campaign
+tags: "rpg, Heart: the City Beneath"
+---
+
 # Endings: Blowing our Zenith Abilities on Pettiness in Heart: The City Beneath (2024)
 
 the head witch embodies the heartsblood and the chaos and meat-transformation of forms--she had become an entire structure and we were in it speaking with her. the witches hate the bees and the structures they form, they are too orderly with their hexcombs and coordination.

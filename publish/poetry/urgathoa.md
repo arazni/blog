@@ -1,3 +1,10 @@
+---
+title: You Taught Me the Longing of Cannibalism
+date: 2024-10-01
+description: A poem about bloody, lesbian, self-annihilating lust
+tags: poetry
+---
+
 # You Taught Me the Longing of Cannibalism (2024)
 
 I wrote this one about an ex, vaguely mapped onto the idea of her being a worshipper of [Urgathoa, a Pathfinder goddess](https://2e.aonprd.com/Deities.aspx?ID=295) of undeath and gluttony.
