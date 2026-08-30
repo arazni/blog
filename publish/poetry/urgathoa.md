@@ -2,7 +2,7 @@
 title: You Taught Me the Longing of Cannibalism
 date: 2024-10-01
 description: A poem about bloody, lesbian, self-annihilating lust
-tags: poetry
+tags: [poetry]
 ---
 
 # You Taught Me the Longing of Cannibalism (2024)

@@ -2,7 +2,7 @@
 title: "Killing the Final Boss in One Shot in Eat the Reich"
 date: 2025-01-01
 #description: Prose of a brief moment of American pride
-tags: "rpg, Eat the Reich"
+tags: [rpg, Eat the Reich]
 ---
 
 # Endings: Killing the Final Boss in One Shot in Eat the Reich (2024)

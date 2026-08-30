@@ -2,7 +2,7 @@
 title: Arazni
 date: 2024-12-01
 description: A poem about care and disarmament
-tags: poetry
+tags: [poetry]
 ---
 
 # Dear Arazni (2024)

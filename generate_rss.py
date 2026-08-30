@@ -121,7 +121,7 @@ def main() -> None:
     root = Path(__file__).parent
     blog_dir = root / "publish"
     print(f"Debug: {blog_dir}.")
-    posts = [p for p in (parse_post(f) for f in blog_dir.glob("/*/*.md")) if p]
+    posts = [p for p in (parse_post(f) for f in blog_dir.glob("*/*.md")) if p]
     posts.sort(key=lambda p: p["date"], reverse=True)
 
     if not posts:

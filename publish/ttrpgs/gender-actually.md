@@ -2,7 +2,7 @@
 title: TTRPGs Didn't Help Me Figure Out My Gender, Actually
 date: 2025-12-01
 #description: An article about RPG firsts
-tags: rpg
+tags: [rpg, Horse Girl, Shadowrun, Pathfinder]
 ---
 
 # TTRPGs Didn't Help Me Figure Out My Gender, Actually (2025)

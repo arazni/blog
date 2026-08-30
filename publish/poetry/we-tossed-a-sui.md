@@ -2,7 +2,7 @@
 title: We Tossed "A Sui" There Instead of Our Bodies
 date: 2024-03-01
 description: A poem about the memories of loving someone suicidal
-tags: poetry
+tags: [poetry]
 ---
 
 # We Tossed "A Sui" There Instead of Our Bodies (2024)

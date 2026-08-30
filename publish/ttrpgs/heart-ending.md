@@ -2,7 +2,7 @@
 title: "Blowing our Zenith Abilities on Pettiness in Heart: The City Beneath"
 date: 2025-10-01
 #description: Prose about the end of a campaign
-tags: "rpg, Heart: the City Beneath"
+tags: [rpg, "Heart: The City Beneath"]
 ---
 
 # Endings: Blowing our Zenith Abilities on Pettiness in Heart: The City Beneath (2024)
