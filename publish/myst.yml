@@ -23,14 +23,14 @@ project:
     - file: poetry/urgathoa.md
     - file: poetry/we-tossed-a-sui.md
   exclude:
-  - rss.xml
-  - atom.xml
+  # - rss.xml
+  # - atom.xml
   - generate_rss.py
 site:
   template: book-theme
   options:
     logo: icon-32.png
     favicon: icon-32.png
-  actions:
-    - title: RSS
-      url: https://arazni.github.io/blog/rss.xml
+  # actions:
+  #   - title: RSS
+  #     url: https://arazni.github.io/blog/rss.xml
