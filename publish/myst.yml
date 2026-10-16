@@ -22,6 +22,9 @@ project:
     - file: poetry/arazni.md
     - file: poetry/urgathoa.md
     - file: poetry/we-tossed-a-sui.md
+  - title: Arazni's Political Blog
+    children:
+    - file: politics/tennessee.md
   exclude:
   # - rss.xml
   # - atom.xml
